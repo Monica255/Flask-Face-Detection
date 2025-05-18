@@ -5,3 +5,4 @@
 *.ptl
 face_model.pth
 face_model.ptl
+.DS_Store
