@@ -1,0 +1,7 @@
+# Ignore model files
+
+# ignore all `.pth` files globally (if you use multiple models)
+*.pth
+*.ptl
+face_model.pth
+face_model.ptl
